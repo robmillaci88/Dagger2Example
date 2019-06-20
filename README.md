@@ -1,2 +1,2 @@
 # Dagger2Example
-![Screenshot](DAG.jpg)
+![Screenshot](DAG.png)
