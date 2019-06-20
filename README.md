@@ -1,5 +1,5 @@
 # Dagger2Example
-![Screenshot](DAG.png)
+![Screenshot](DAG.bmp)
 <br>
 <br>
 A simple project building a car with its dependencies using Dagger2. This may be useful for those starting out with Dagger2 dependency injection as a learning tool.
